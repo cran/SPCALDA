@@ -1,0 +1,3 @@
+export(SPCALDA)
+import(MASS)
+importFrom("stats", "median", "predict")
